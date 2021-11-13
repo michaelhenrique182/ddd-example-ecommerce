@@ -35,6 +35,7 @@ class ExampleDataSourceConfig {
 	
 	/*
 	 * MySQL
+	 *
 	 **/
     @Bean
     DataSource dataSource() {
